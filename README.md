@@ -1,6 +1,7 @@
 # Social_Network_Sequence_Databases
 # Created by Thon-Da Nguyen (https://scholar.google.com/citations?user=8nIkBCkAAAAJ)
 Social_Network_Sequence_Databases
+
 (1) Sequence Databases from Facebooks:
 Symbols 0, 3, 9, 21, 25: The first user that propagates information
 Symbol 100: Number of propagation users
